@@ -11,3 +11,13 @@ Welcome to my first GitHub project!
 ## Goal
 Become a job-ready Data Scientist
 through practical projects.
+
+
+## Developer Profile
+
+Name: Nitin Xavier
+
+Current Focus:
+- Data Science
+- Machine Learning
+- AI-assisted Development
